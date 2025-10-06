@@ -1,0 +1,37 @@
+p {
+  color: blueviolet;
+  text-indent: 24px;
+}
+
+div {
+  background-color: salmon;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italics {
+  font-style: italic;
+}
+
+#site-title {
+  font-size: 48px;
+  color: firebrick;
+}
+
+.white-text {
+  color: snow;
+}
+
+.italics.bold {
+  background-color: lime;
+}
+
+div.bold {
+  font-size: 24px;
+}
+
+#special-div p {
+  font-family: cursive;
+}
