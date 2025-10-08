@@ -1,3 +1,7 @@
+body {
+  color: black;
+}
+
 p {
   color: blueviolet;
   text-indent: 24px;
@@ -9,10 +13,12 @@ div {
 
 .bold {
   font-weight: bold;
+  color: mediumaquamarine;
 }
 
 .italics {
   font-style: italic;
+  color: slategray;
 }
 
 #site-title {
@@ -34,4 +40,8 @@ div.bold {
 
 #special-div p {
   font-family: cursive;
+}
+
+div p {
+
 }

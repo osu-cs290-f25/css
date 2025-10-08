@@ -1,0 +1,21 @@
+p {
+  height: 100px;
+  width: 100px;
+  padding: 0 16px 32px 64px;
+  border: 2px solid dimgray;
+  margin: 24px;
+  background-color: bisque;
+  text-align: center;
+}
+
+#special-p {
+  /* border-right: 10px dotted magenta; */
+  padding-top: 128px;
+  border-color: magenta;
+  border-width: 10px;
+  margin-left: 128px;
+}
+
+.outer-box {
+  display: inline-block;
+}
