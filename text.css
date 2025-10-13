@@ -1,0 +1,17 @@
+html {
+  /* font-family: Helveticaaaaaaaaaaaaa, Helvetica, sans-serif; */
+  /* font-family: serif; */
+  /* font-family: monospace; */
+  /* font-family: cursive; */
+  /* font-family: fantasy; */
+
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-size: 24px;
+
+  /* color: rgb(128, 128, 255); */
+  color: #004a77;
+  /* color: rgba(0, 128, 0, 0.5); */
+  /* color: #004a77ff; */
+}
