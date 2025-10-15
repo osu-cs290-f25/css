@@ -1,3 +1,23 @@
 body {
   font-family: "Helvetica Neue", Helvetica, sans-serif;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.25);
+}
+
+li:hover {
+  background-color: sienna;
+}
+
+a::after {
+  content: "↗";
+}
+
+.advanced {
+  width: 200px;
+  height: 200px;
+  margin: 100px;
+  border: 2px solid black;
+
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  cursor: pointer;
 }
