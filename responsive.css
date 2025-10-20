@@ -38,3 +38,17 @@ header h1 {
 .right {
   float: right;
 }
+
+@media(max-width: 640px) {
+  .navitem {
+    display: block;
+  }
+
+  .navitem.right {
+    float: none;
+  }
+}
+
+@media(min-width: 641px) AND (max-width: 800px) {
+
+}
